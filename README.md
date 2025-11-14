@@ -1,2 +1,2 @@
 # Delta
-Begining of Devlopers journey!
+Begining of Devlopers journey.
